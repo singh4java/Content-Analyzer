@@ -10,9 +10,6 @@ Java 8 maven Access to port 8088 on the local box where this code will be execut
 Installing
 Clone the repository from git hub by running the following command git clone https://github.com/singh4java/Content-Analyzer.git
 
-mvn package
-or 
-
 cd to web-Analyzer directory and run command 'mvn spring-boot:run' This will startup a standalone tomcat instance on port 8088.
 
 to access the application in the browser enter
