@@ -16,7 +16,7 @@ to access the application in the browser enter
 http://localhost:8088/wipro/webAnalyzer or http://localhost:8088/wipro/webAnalyzer?domain=http://wiprodigital.com
 
 Request Parameters
-url takes a parameter by name domain this will be the domain name which needs to be web crawled. 
+url takes a parameter by name domain this will be the domain name which needs to be web Analyzed. 
 By default this value is set http://wiprodigital.com/
 ----------------------------------------------------------------------------------------------------------------------
 
